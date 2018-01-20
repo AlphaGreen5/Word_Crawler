@@ -70,7 +70,7 @@ def main():
             
         print()
         input("Enter to continue for the next string")
-        os.system('cls')
+        
         a_list.clear()
         b_list.clear()
         main()
