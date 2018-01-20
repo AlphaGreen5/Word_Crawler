@@ -41,7 +41,7 @@ def main():
         a=input("Enter the string :")
         permutations(a)
         z=[]
-        n=int(input("Enter the num: "))
+        n=int(input("Enter the length of the word to search(eg. 3): "))
         s=""
         for i in range(len(a_list)):
             s=""
